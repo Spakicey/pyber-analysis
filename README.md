@@ -6,16 +6,16 @@ V. Isualize has requested to have a new data frame created that shows summary in
 
 ## Resources
 
-- Data Source: city_data.csv, ride_data.csv, PyBer_ride_data.csv
+- Data Source: city_data.csv, ride_data.csv
 - Software: Python 3.7.11, Jupyter Notebook 6.4.5
 
 ## Results
 
 Looking at the data, one can see that ride data for urban cities shows the largest amount of total rides at 1,625 with a total driver count of 2,405. Urban cities also had the largest amount of total fares at $39,854.38, with an average fare of $24.53 per ride and average fare per driver of $16.57. The average fare per ride and average fare per driver for Urban cities were the lowest amongst the three city types. Meanwhile, suburban cities were very much in the middle. This city type had less rides, drivers, and revenue, but also higher average fares per ride and per driver. Lastly, rural cities had the lowest number of rides at 125 with just 78 drivers. Rural cities also had the lowest total fare revenue of $4,327.93 and the highest average fares- $34.62 per ride and $55.49 per driver. See below for an image of the data gathered along with a line graph showing total fares by city type per week.
 
-![summary_ride_df](Resources/summary_ride_df.png)
+![summary_ride_df](Analysis/summary_ride_df.png)
 
-![Challenge_Fig](Resources/Challenge_Fig.png)
+![Challenge_Fig](Analysis/Challenge_Fig.png)
 
 ## Summary
 
